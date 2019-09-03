@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">base</string>
+    <string name="app_name">HappyApp</string>
+    <string name="start_party">Start Party</string>
+    <string name="happyTextClicked">It works, button clicked</string>
 </resources>
