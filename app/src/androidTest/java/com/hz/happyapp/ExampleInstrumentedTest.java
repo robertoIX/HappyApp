@@ -1,4 +1,4 @@
-package com.owenselles.base;
+package com.hz.happyapp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.owenselles.base", appContext.getPackageName());
+        assertEquals("com.hz.happyapp", appContext.getPackageName());
     }
 }
