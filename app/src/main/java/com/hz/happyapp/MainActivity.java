@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void onButton2Tap(View v) {
         Toast myToast = Toast.makeText(
                 getApplicationContext(),
-                "Ouch!",
+                "You are a beautiful person!",
                 Toast.LENGTH_SHORT);
         myToast.show();
     }
