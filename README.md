@@ -1,3 +1,3 @@
 # HappyApp
 
-This app is stupid. It gets a button which makes you happy.
+This app is great. It gets a button which makes you happy.
